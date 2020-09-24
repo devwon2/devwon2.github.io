@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Build A jekyll blog"
+
+---
+
+# 나만의 기술블로그 만들기
+
+
+![지킬_깃허브_로고](https://user-images.githubusercontent.com/71265398/94172526-8f0d8480-fecd-11ea-9842-614071653aae.png)
+안녕하세요, 오늘은 **지킬**을 이용해 기술 블로그를 만들었습니다.
+
+먼저 사용한 기술 스택을 정리해볼게요
+
+# Stacks
+  
+분야 | stack
+------------ | -------------
+서버 | Jekyll
+배포 | Github
+웹호스팅 | Github Pages
+DB | -
+언어 | Ruby, Markdown
+
+~
+
+발생한 오류들은 다음 포스팅에서 이어집니다.
+
